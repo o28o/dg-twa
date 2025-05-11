@@ -15,4 +15,10 @@
 -->
 <resources>
     <color name="shortcut_background">#F5F5F5</color>
+    <color name="light_primary">#1abc9c</color>
+    <color name="dark_primary">#136857</color>
+    <color name="secondary">#2c3e50</color>
+    <color name="success">#198754</color>
+    <color name="theme_color">#1B252F</color>
+    <color name="background_color">#2E3E50</color>
 </resources>
