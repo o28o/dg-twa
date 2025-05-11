@@ -68,11 +68,11 @@
 
 <meta-data
     android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR"
-    android:resource="@color/light_primary" />
+    android:resource="@color/dark_primary" />
 
 <meta-data
     android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR_DARK"
-    android:resource="@color/dark_primary" />
+    android:resource="@color/background_color" />
 
             <meta-data
                 android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR"
