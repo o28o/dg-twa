@@ -1,0 +1,3 @@
+java -jar bundletool.jar build-apks   --bundle=app-release-bundle.aab   --output=app.apks   --mode=universal   --ks=android.keystore   --ks-key-alias=android
+
+unzip app.apks universal.apk

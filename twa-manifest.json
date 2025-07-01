@@ -12,7 +12,7 @@
   "navigationDividerColorDark": "#000000",
   "backgroundColor": "#2E3E50",
   "enableNotifications": true,
-  "startUrl": "/?source=pwa",
+  "startUrl": "/assets/openDDG.html?url=https://dhamma.gift?source=pwa",
   "iconUrl": "https://dhamma.gift/assets/img/pwa-bold-monocolor-512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
@@ -50,8 +50,7 @@
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://dhamma.gift/manifest.php",
   "fallbackType": "customtabs",
-  "features": {
-}
+  "features": {},
   "alphaDependencies": {
     "enabled": true
   },
