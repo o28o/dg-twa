@@ -51,10 +51,7 @@
   "webManifestUrl": "https://dhamma.gift/manifest.php",
   "fallbackType": "customtabs",
   "features": {
-    "playBilling": {
-      "enabled": true
-    }
-  },
+}
   "alphaDependencies": {
     "enabled": true
   },
